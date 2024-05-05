@@ -34,6 +34,9 @@ Left/Right/Up/Down -> Move on the keyboard
 
 Start -> Start program/Validate a number/Return to main screen
 
+
+Note : Build with G++11.4.0 
+
 Select -> Open manual page/Exit manual page
 
 
