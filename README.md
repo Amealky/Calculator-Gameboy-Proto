@@ -27,9 +27,13 @@ The game was made in C using the [GBDK devkit](https://github.com/gbdk-2020/gbdk
 Beware to set your emulator controls before !
 
 A -> Choose number
+
 B -> Erase number
+
 Left/Right/Up/Down -> Move on the keyboard
+
 Start -> Start program/Validate a number/Return to main screen
+
 Select -> Open manual page/Exit manual page
 
 
