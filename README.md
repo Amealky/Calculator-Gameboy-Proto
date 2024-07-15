@@ -2,11 +2,11 @@
 
 <h1 align="center"> Calculator Gameboy Prototype <h1>
 
-<img src="https://img.shields.io/badge/platform-gameboy-yellowgreen" />
-<img src="https://img.shields.io/badge/language-c-lightgrey" />
+<p align="center">
+        <img src="https://img.shields.io/badge/Gameboy-%204--2--1?style=for-the-badge&label=platform&color=yellowgreen">
+        <img src="https://img.shields.io/badge/C-%204--2--1?style=for-the-badge&logo=SDL&logoColor=white&label=language&color=lightgrey">
+</p>
 
-
-## Preview
 <p float="left" align="center">
   <img src="https://i.ibb.co/g3N3nqR/calculator-0.png" alt="calculator-0" border="0" width="300" >
   <img src="https://i.ibb.co/VTZ9QPs/calculator-1.png" alt="calculator-1" border="0" width="300" >
